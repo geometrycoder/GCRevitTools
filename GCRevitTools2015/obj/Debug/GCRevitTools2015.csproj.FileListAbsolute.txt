@@ -1,0 +1,6 @@
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\bin\Debug\GCRevitTools2015.dll
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\bin\Debug\GCRevitTools2015.pdb
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\bin\Debug\GCRevit2015.dll
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\bin\Debug\GCRevit2015.pdb
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\obj\Debug\GCRevitTools2015.dll
+C:\Users\Michael Kero\Documents\GeometryCoder\Code\Open\GCRevitTools\GCRevitTools2015\obj\Debug\GCRevitTools2015.pdb
