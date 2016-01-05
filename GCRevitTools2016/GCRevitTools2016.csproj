@@ -35,11 +35,11 @@
       <HintPath>..\..\GCRevit\GCRevit2016\bin\Debug\GCRevit2016.dll</HintPath>
     </Reference>
     <Reference Include="RevitAPI">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2016\RevitAPI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2016\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2016\RevitAPIUI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2016\RevitAPIUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -57,6 +57,9 @@
     </Compile>
     <Compile Include="..\GCRevitTools\ModelingTools\GCColumnToGridSnapper.cs">
       <Link>ModelingTools\GCColumnToGridSnapper.cs</Link>
+    </Compile>
+    <Compile Include="..\GCRevitTools\ModelingTools\GCFramingToColumnSnapper.cs">
+      <Link>ModelingTools\GCFramingToColumnSnapper.cs</Link>
     </Compile>
     <Compile Include="..\GCRevitTools\ViewTools\GCViewOfFaceCommand.cs">
       <Link>ViewTools\GCViewOfFaceCommand.cs</Link>

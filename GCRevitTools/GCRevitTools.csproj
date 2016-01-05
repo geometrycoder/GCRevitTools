@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ModelingTools\GCColumnToGridSnapper.cs" />
     <Compile Include="GCRibbon.cs" />
+    <Compile Include="ModelingTools\GCFramingToColumnSnapper.cs" />
     <Compile Include="ViewTools\GCViewOfFaceCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

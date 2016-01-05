@@ -7,7 +7,7 @@ using GCRevit.Elements;
 using GCRevit.Utils;
 using System;
 
-namespace GCRevitTools {
+namespace GCRevitTools.ViewTools {
 
     [Transaction(TransactionMode.Manual)]
     [Regeneration(RegenerationOption.Manual)]
